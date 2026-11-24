@@ -1,6 +1,3 @@
-# AiAI-Hospital-Management-System
-
-
 # 🏥 AI Hospital Management System
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
