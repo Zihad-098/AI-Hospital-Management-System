@@ -92,7 +92,7 @@ npm run dev
 ## 🖼 Screenshots
 <img width="654" height="364" alt="image" src="https://github.com/user-attachments/assets/d7241af8-6a24-4643-b42a-84f6bff5cf91" />
 <img width="749" height="398" alt="Screenshot_1" src="https://github.com/user-attachments/assets/93d9d1a1-bf8d-49c4-8f02-fa0e2e490448" />
-
+<img width="826" height="602" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7b5b973f-152b-440b-a106-75428a356158" />
 
 
 
