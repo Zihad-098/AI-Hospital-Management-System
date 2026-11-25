@@ -1,5 +1,5 @@
 # 🏥 AI Hospital Management System
-
+> A MERN-stack hospital management system, built as a foundation for AI-driven healthcare features (disease prediction and clinical decision support are planned).
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
